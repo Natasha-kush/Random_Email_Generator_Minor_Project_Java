@@ -5,7 +5,7 @@ Scenario: You work as an IT support administrator specialist and are responsible
 -----------------------------------------------------------------------------------------
 Your application should do the following :-
 
-1- Generate an email with the following syntax - firsemail.lastname@department.company.com
+1- Generate an email with the following syntax - firstemail.lastname@department.company.com
 
 2- Generate a random string for a password
 
